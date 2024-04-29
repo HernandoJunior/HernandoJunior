@@ -8,6 +8,7 @@
 - `HTML5`
 - `CSS3`
 - `Git e Github`
+- `C`
 - Studying `NodeJs` and `TypeScript`
 
 #### Contacts:
