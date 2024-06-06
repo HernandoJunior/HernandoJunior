@@ -9,6 +9,7 @@
 - `CSS3`
 - `Git e Github`
 - `C`
+- ReactJs
 - Studying `NodeJs` and `TypeScript`
 
 #### Contacts:
