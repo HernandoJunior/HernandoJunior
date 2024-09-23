@@ -10,7 +10,7 @@
 - `Git e Github`
 - `C`
 - ReactJs
-- Studying `NodeJs` and `TypeScript`
+- Studying `Java` and `Dbas relational`
 
 #### Contacts:
 - Email: devhernandojunior@gmail.com
