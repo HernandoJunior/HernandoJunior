@@ -10,7 +10,8 @@
 - `Git e Github`
 - `C`
 - ReactJs
-- Studying `Java` and `Dbas relational`
+- Java
+- Studying `Kotlin` and `Mobile development`
 
 #### Contacts:
 - Email: devhernandojunior@gmail.com
