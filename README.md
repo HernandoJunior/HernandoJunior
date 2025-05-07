@@ -11,7 +11,7 @@
 - `C`
 - ReactJs
 - Java
-- Studying `Kotlin` and `Mobile development`
+- Studying `SpringBoot` and `Java Advance`
 
 ###
 
