@@ -6,10 +6,9 @@ I am a software developer passionate about performance and innovation, currently
 🎓 Education: - Systems Analysis & Development (ADS) at FIAP University
 
 English Language (B2) at EF
-💼 Current Focus: Building scalable backend architectures, optimizing databases, and studying Advanced Java & Spring Security.
-💡 Fun Fact: I have a background in business administration, which helps me understand the business value of the code I write.
+ Current Focus: Building scalable backend architectures, optimizing databases, and studying Advanced Java & Spring Security.
 
-🛠️ Tech Stack
+Tech Stack
 <div align="left">
 <!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
