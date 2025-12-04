@@ -18,13 +18,13 @@ English Language (B2) at EF
 
 <div align="left">
 <!-- Languages -->
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
 <img width="10" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
 <img width="10" />
 
 <!-- Frameworks & Ecosystem -->
@@ -59,17 +59,6 @@ English Language (B2) at EF
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dhernandojunior%26locale%3Den%26hide_title%3Dfalse%26layout%3Dcompact%26card_width%3D320%26langs_count%3D5%26theme%3Ddracula%26hide_border%3Dtrue" height="150" alt="languages graph" />
 </div>
 
-💼 Professional Highlights
-
-Software Developer | Virtus Consultoria
-
-Developed and maintained REST APIs using Java and Spring Boot.
-
-Implemented 30+ endpoints and optimized critical Oracle/MySQL database queries.
-
-Created unit and integration tests using JUnit and Mockito to ensure code quality.
-
-Collaborated on frontend tasks using React and TypeScript.
 
 📫 Contact Me
 
