@@ -1,21 +1,15 @@
 Hi there, I'm Hernando Junior! 👋
 
 🚀 Backend Developer | Java & Spring Boot Specialist
-
 I am a software developer passionate about performance and innovation, currently specializing in the Java ecosystem, Microservices, and Cloud Computing. I have experience developing high-performance APIs and CRMs that drive business results.
 
 🎓 Education: - Systems Analysis & Development (ADS) at FIAP University
 
-FullStack Programming at Infinity School
-
 English Language (B2) at EF
-
 💼 Current Focus: Building scalable backend architectures, optimizing databases, and studying Advanced Java & Spring Security.
-
 💡 Fun Fact: I have a background in business administration, which helps me understand the business value of the code I write.
 
 🛠️ Tech Stack
-
 <div align="left">
 <!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
@@ -58,7 +52,7 @@ English Language (B2) at EF
 <a href="mailto:devhernandojunior@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/hernandojunior">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/hernandojunior">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 </div>
