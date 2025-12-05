@@ -83,11 +83,6 @@ Testes avançados
 Cloud e infraestrutura
 IA generativa aplicada a software
 
-📂 Projetos em Destaque
-
-🚧 Em construção!
-Em breve você verá aqui os projetos que estão marcando minha trajetória como desenvolvedor — incluindo APIs completas, microsserviços, integrações e aplicações reais.
-Enquanto isso, sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 👇
 
 🔗 Conecte-se Comigo
 
