@@ -93,10 +93,8 @@ Enquanto isso, sinta-se à vontade para explorar meus repositórios e acompanhar
 
 LinkedIn
 
-📊 Estatísticas do GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=HernandoJunior&show_icons=true&theme=transparent" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandoJunior&layout=compact&theme=transparent" alt="Top Langs" />
-🏆 Troféus
-<img src="https://github-profile-trophy.vercel.app/?username=HernandoJunior&theme=algolia&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hernandojunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
 🤝 Vamos Conversar?
 
 Estou sempre aberto para trocar ideias sobre tecnologia, carreira, projetos, oportunidades e inovação.
