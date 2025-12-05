@@ -76,12 +76,19 @@ Frontend
 HTML • CSS • JavaScript • TypeScript • React
 
 📚 Tecnologias que estudo atualmente
+
 Arquitetura de microsserviços
+
 Mensageria (Kafka / RabbitMQ)
+
 Quarkus
+
 Testes avançados
+
 Cloud e infraestrutura
+
 IA generativa aplicada a software
+
 
 
 🔗 Conecte-se Comigo
