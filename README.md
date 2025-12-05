@@ -1,57 +1,103 @@
-Hi there, I'm Hernando Junior! 👋
+👋 Olá, eu sou o Hernando, Desenvolvedor Backend Java em constante evolução 🚀
 
-🚀 Backend Developer | Java & Spring Boot Specialist
-I am a software developer passionate about performance and innovation, currently specializing in the Java ecosystem, Microservices, and Cloud Computing. I have experience developing high-performance APIs and CRMs that drive business results.
+Sou Desenvolvedor Backend especializado no ecossistema Java + Spring Framework, construindo APIs, microsserviços e soluções escaláveis focadas em performance, boas práticas e impacto real nos negócios.
 
-🎓 Education: - Systems Analysis & Development (ADS) at FIAP University
+Atualmente atuo no desenvolvimento de sistemas distribuídos, integrações com banco de dados Oracle, microsserviços em Spring Boot e componentes frontend com React. Além disso, venho construindo projetos práticos e conteúdos sobre tecnologia, IA e carreira.
 
-English Language (B2) at EF
- Current Focus: Building scalable backend architectures, optimizing databases, and studying Advanced Java & Spring Security.
+Busco evoluir diariamente para me consolidar como Engenheiro de Software, com foco em soluções de alta criticidade, arquitetura limpa e uso inteligente de tecnologias modernas.
 
-Tech Stack
-<div align="left">
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
-<img width="10" />
+🙋‍♂️ Sobre Mim
+💻 Desenvolvedor Backend (Java, Spring Boot, Microsserviços)
 
-<!-- Frameworks & Ecosystem -->
+🎓 Formado em Análise e Desenvolvimento de Sistemas – FIAP
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring Boot" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="ReactJS" />
-<img width="10" />
+☁️ Experiência com CI/CD, Docker, GitHub Actions e deploy cloud
 
-<!-- Databases -->
+🔎 Apaixonado por arquitetura limpa, IA aplicada e soluções de alto impacto
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" title="Oracle DB" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
-<img width="10" />
+📊 Desenvolvi um CRM completo que aumentou em 10x a performance de uma empresa de consultoria financeira
 
-<!-- Tools & Cloud -->
+⚡ Interesso-me por projetos complexos, escaláveis e orientados a dados
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Azure" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
-</div>
+🎯 Objetivo Profissional
 
-📫 Contact Me
+Desenvolver soluções robustas e escaláveis utilizando Java, Spring Boot, microsserviços, arquitetura limpa e integrações de alto desempenho, além de explorar tecnologias como Quarkus, mensageria, cloud, automação e IA aplicada ao desenvolvimento.
 
-<div align="left">
-<a href="mailto:devhernandojunior@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/hernandojunior">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />          
-</a>
-</div>
+🧠 Hard Skills
+🔧 Linguagens & Frameworks
+Java 17+
+Spring Boot, Spring Data, Spring Security, Spring AI
+Maven
+Quarkus (iniciante)
+HTML, CSS, JavaScript, TypeScript
+React.js (básico)
+
+🏗️ Arquitetura & Backend
+Microsserviços
+APIs REST
+Arquitetura Hexagonal e MVC
+POO
+Design Patterns
+Estruturas de Dados
+
+🌩️ DevOps & Cloud
+Docker
+GitHub Actions (CI/CD)
+Azure (iniciante)
+Git & GitHub
+
+🗄️ Banco de Dados
+Oracle Database
+PostgreSQL
+SQL
+MongoDB
+
+🧪 Testes Automatizados
+JUnit
+Mockito
+
+Testes de Integração
+🤖 IA & Automação
+
+Engenharia de Prompt
+IA Generativa aplicada ao desenvolvimento
+
+💻 Tecnologias
+Backend
+Java • Spring Boot • Quarkus • Maven
+
+Banco de Dados
+Oracle • PostgreSQL • SQL • MongoDB
+
+Ferramentas
+Git • GitHub • Docker • GitHub Actions • VS Code
+
+Frontend
+HTML • CSS • JavaScript • TypeScript • React
+
+📚 Tecnologias que estudo atualmente
+Arquitetura de microsserviços
+Mensageria (Kafka / RabbitMQ)
+Quarkus
+Testes avançados
+Cloud e infraestrutura
+IA generativa aplicada a software
+
+📂 Projetos em Destaque
+
+🚧 Em construção!
+Em breve você verá aqui os projetos que estão marcando minha trajetória como desenvolvedor — incluindo APIs completas, microsserviços, integrações e aplicações reais.
+Enquanto isso, sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 👇
+
+🔗 Conecte-se Comigo
+
+LinkedIn
+
+📊 Estatísticas do GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=HernandoJunior&show_icons=true&theme=transparent" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandoJunior&layout=compact&theme=transparent" alt="Top Langs" />
+🏆 Troféus
+<img src="https://github-profile-trophy.vercel.app/?username=HernandoJunior&theme=algolia&margin-w=10" />
+🤝 Vamos Conversar?
+
+Estou sempre aberto para trocar ideias sobre tecnologia, carreira, projetos, oportunidades e inovação.
+Se quiser bater um papo, estou por aqui → devhernandojunior@hotmail.com
