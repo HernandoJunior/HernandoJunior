@@ -23,7 +23,7 @@ Busco evoluir diariamente para me consolidar como Engenheiro de Software, com fo
 ###
 🎯 Objetivo Profissional
 
-Desenvolver soluções robustas e escaláveis utilizando Java, Spring Boot, microsserviços, arquitetura limpa e integrações de alto desempenho, além de explorar tecnologias como Quarkus, mensageria, cloud, automação e IA aplicada ao desenvolvimento.
+Desenvolver soluções robustas e escaláveis utilizando Java, Spring Boot, microsserviços, arquitetura limpa e integrações de alto desempenho, além de explorar tecnologias como, cloud, automação e IA aplicada ao desenvolvimento.
 
 ###
 🧠 Hard Skills
