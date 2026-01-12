@@ -36,8 +36,6 @@ Desenvolver soluções robustas e escaláveis utilizando Java, Spring Boot, micr
 
 ->Maven
 
--> Quarkus
-
 -> HTML, CSS, JavaScript, TypeScript
 
 -> React.js
@@ -94,7 +92,7 @@ Engenharia de Prompt
 ###
 💻 Tecnologias
 -> Backend
-Java • Spring Boot • Quarkus • Maven
+Java • Spring Boot • Maven
 
 -> Banco de Dados
 Oracle • PostgreSQL • SQL • MongoDB
