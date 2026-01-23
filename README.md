@@ -30,7 +30,7 @@ Desenvolver soluções robustas e escaláveis utilizando Java, Spring Boot, micr
 
 🔧 Linguagens & Frameworks
 
--> Java 8+
+-> Java 11+
 
 -> Spring Web, Spring Boot, Spring Data, Spring Security
 
